@@ -1,4 +1,0 @@
-# Autoupdate crontab entry
-git add .
-git commit -m "daily autocommit"
-git push origin master
